@@ -8,3 +8,12 @@
   - 💪 I develop projects with Opencv and Tkinter.<br>
   - 💬 How to reach me: yigitylmaz15@gmail.com<br>      
 </p>
+
+### Connect with me:
+<!-- linkedin -->
+[<img alt="linkedin" width="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yiğit-yılmaz15/)
+
+<!-- instagram -->
+
+
+<!-- twitter -->
