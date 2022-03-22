@@ -27,7 +27,7 @@
 
 ### Technologies:
 <!-- SolidWorks -->
-[<img alt="solidworks" width="70px" src="https://e7.pngegg.com/pngimages/69/464/png-clipart-solidworks-computer-software-computer-aided-design-rendering-three-dimensional-space-solid-text-rectangle-thumbnail.png" />](https://www.solidworks.com/tr)
+[<img alt="solidworks" width="70px" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-7.jpg" />](https://www.solidworks.com/tr)
 
 
 
