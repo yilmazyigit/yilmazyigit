@@ -27,7 +27,8 @@
 
 ### Technologies:
 <!-- SolidWorks -->
-[<img alt="solidworks" width="70px" src="D:\Desktop\kodluyoruz\github\png" />](https://www.solidworks.com/tr)
+[<img alt="solidworks" width="70px" src="https://user-images.githubusercontent.com/83499976/159558100-4a653638-be07-4d17-91cc-05f9f6651860.png" />](https://www.solidworks.com/tr)
+
 
 
 
