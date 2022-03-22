@@ -27,28 +27,7 @@
 
 ### Technologies:
 <!-- SolidWorks -->
-[<img alt="solidworks" width="70px" src="https://img2.pngindir.com/20180328/ihq/kisspng-solidworks-logo-computer-software-mechanical-engin-cam-newton-5abbd3c0aac055.8229833915222588806994.jpg" />](https://www.solidworks.com/tr)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[<img alt="solidworks" width="70px" src="D:\Desktop\kodluyoruz\github\png" />](https://www.solidworks.com/tr)
 
 
 
