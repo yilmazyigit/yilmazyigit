@@ -27,7 +27,7 @@
 
 ### Technologies:
 <!-- SolidWorks -->
-[<img alt="solidworks" width="70px" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-7.jpg" />](https://www.solidworks.com/tr)
+[<img alt="solidworks" width="70px" src="https://icon-library.com/icon/solidworks-icon-7.html.html" />](https://www.solidworks.com/tr)
 
 
 
