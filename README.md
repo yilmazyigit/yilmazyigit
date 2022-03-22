@@ -12,19 +12,19 @@
 ### Connect with me:
 <p>
   <!-- linkedin -->
-[<img alt="linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yiğit-yılmaz15/)
+  [<img alt="linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]  (https://www.linkedin.com/in/yiğit-yılmaz15/)
 
-<!-- instagram -->
-[<img alt="instagram" width="70px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/yz.yigiit/)
+  <!-- instagram -->
+  [<img alt="instagram" width="70px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/yz.yigiit/)
 
-<!-- twitter -->
-[<img alt="twitter" width="70px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yigityz_)
+  <!-- twitter -->
+  [<img alt="twitter" width="70px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yigityz_)
 
-<!-- stack overflow -->
-[<img alt="stack overflow" width="70px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/16132597/yiğit-yılmaz)
+  <!-- stack overflow -->
+  [<img alt="stack overflow" width="70px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/16132597/yiğit-yılmaz)
 
-<!-- hackerrank -->
-[<img alt="hackerrank" width="70px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />](https://www.hackerrank.com/yigitylmaz15?hr_r=1)
+  <!-- hackerrank -->
+  [<img alt="hackerrank" width="70px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />](https://www.hackerrank.com/yigitylmaz15?hr_r=1)
 </p>
 
 ### Technologies:
