@@ -37,7 +37,7 @@
 
 [<img alt="matlab" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" />](https://www.mathworks.com/products/matlab.html)
 
-[<img alt="opencv" width="50px" src="https://quintagroup.com/cms/python/images/opencv-logo.png/@@images/image.png" />](https://opencv.org)
+[<img alt="opencv" width="50px" src="https://user-images.githubusercontent.com/83499976/159564051-6b866ce2-53cc-41f3-9cb0-0abc3a26368e.png" />](https://opencv.org)
 
 [<img alt="tkinter" width="50px" src="https://user-images.githubusercontent.com/83499976/159561862-22065d8c-a40f-4428-92fc-d2dd9d6fe83b.png" />](https://docs.python.org/3/library/tkinter.html)
 
