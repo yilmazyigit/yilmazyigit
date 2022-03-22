@@ -6,6 +6,7 @@
 <p>
   - 🖖 I'm currently working with Python. <br>
   - 💪 I develop projects with Opencv and Tkinter.<br>
+  - 🔧 I'm learning JavaScript<br>  
   - 💬 How to reach me: yigitylmaz15@gmail.com<br>      
 </p>
 
@@ -17,10 +18,5 @@
 
 ### Tools:
 
-[<img alt="vscode" width="50px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com)
-
-[<img alt="pycharm" width="50px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />](https://www.jetbrains.com/pycharm/)
-
-
-
+[<img alt="vscode" width="50px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com)[<img alt="pycharm" width="50px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />](https://www.jetbrains.com/pycharm/)
 
