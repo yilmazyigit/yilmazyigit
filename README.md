@@ -17,10 +17,38 @@
 [<img alt="instagram" width="70px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/yz.yigiit/)
 
 <!-- twitter -->
-[<img alt="twitter" width="60px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yigityz_)
+[<img alt="twitter" width="70px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yigityz_)
 
 <!-- stack overflow -->
-[<img alt="stack overflow" width="80px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/16132597/yiğit-yılmaz)
+[<img alt="stack overflow" width="70px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/16132597/yiğit-yılmaz)
 
 <!-- hackerrank -->
-[<img alt="hackerrank" width="80px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />](https://www.hackerrank.com/yigitylmaz15?hr_r=1)
+[<img alt="hackerrank" width="70px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />](https://www.hackerrank.com/yigitylmaz15?hr_r=1)
+
+### Technologies:
+<!-- SolidWorks -->
+[<img alt="solidworks" width="70px" src="https://e7.pngegg.com/pngimages/69/464/png-clipart-solidworks-computer-software-computer-aided-design-rendering-three-dimensional-space-solid-text-rectangle-thumbnail.png" />](https://www.solidworks.com/tr)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
